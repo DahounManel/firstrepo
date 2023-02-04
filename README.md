@@ -1,2 +1,4 @@
 # firstrepo
-learn how to se repo
+learn how to use repo
+
+### notes
